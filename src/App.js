@@ -152,7 +152,7 @@ class App extends React.Component {
           <a href={`https://twitter.com/intent/tweet?text="${this.state.randomQuote.quote}" ${this.state.randomQuote.author}`}><button id="tweet-quote" class="btn btn-default" type="button" name="button">Tweet this!</button></a>
         </div>
         <footer>
-          <h4><em>by Milan V. Kecojević</em></h4>
+          <h3><em>by Milan V. Kecojević</em></h3>
         </footer>
       </div>
     )
