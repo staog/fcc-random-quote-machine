@@ -27,7 +27,7 @@ code {
 footer {
    text-align: center;
    font-family: 'Frijole', cursive;
-   position:fixed;
+   padding: 3em;
    left:0px;
    bottom:25px;
    height:30px;
